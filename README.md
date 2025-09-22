@@ -50,11 +50,11 @@ chmod +x *  (all permission allow)
 
 # 3. Virtual environment optional hai (Termux mein direct bhi chalega)
 
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 
 # 4. App run karo
 
-python main.py
+$ python main.py
 
 # ya
 
