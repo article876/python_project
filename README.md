@@ -46,6 +46,8 @@ git clone https://github.com/article876/python_project.git
 
 cd python_project
 
+chmod +x *  (all permission allow
+
 # 3. Virtual environment optional hai (Termux mein direct bhi chalega)
 
 pip install -r requirements.txt
