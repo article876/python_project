@@ -76,5 +76,6 @@ bash run.sh
 
 ![411fbe3b-ed5a-43b7-835e-5c2a787348d4](https://github.com/user-attachments/assets/da146ce6-0b04-4b96-ac14-f8f1a69d6b69)
 
+![77856c19-60bf-4892-b571-5f62dbea9122](https://github.com/user-attachments/assets/29af699d-ae76-47d5-8bd5-9e134a81c3ce)
 
-
+# SCRIPT ACCHI LAGE TO START DO
