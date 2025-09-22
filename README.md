@@ -36,3 +36,16 @@ MIT
 # requirement of termux 
 apt update
 apt upgrade
+pkg install python git -y
+#2 repo clone karo
+git clone https://github.com/article876/python_project.git
+cd python_project
+# 3. Virtual environment optional hai (Termux mein direct bhi chalega)
+pip install -r requirements.txt
+# 4. App run karo
+python main.py
+# ya
+bash run.sh
+
+
+
