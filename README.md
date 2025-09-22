@@ -33,3 +33,6 @@ Follow CLI prompts to add/list/complete tasks.
 
 ## License
 MIT
+# requirement of termux 
+apt update
+apt upgrade
